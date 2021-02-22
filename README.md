@@ -1,2 +1,2 @@
 # Voting app for Tekton Pipeline examples
-test 1
+test 2
